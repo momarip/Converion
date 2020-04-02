@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">build App</string>
+    <string name="label_message">Hello Word</string>
+    <string name="btn_calculer">Calculer</string>
+    <string name="label_resultat">Résultat</string>
+
+</resources>
